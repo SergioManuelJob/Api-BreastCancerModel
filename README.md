@@ -1,5 +1,5 @@
 # Api-BreastCancerModel
-Repository for an API done to use the breast cancer model I have trained with a breast cancer dataset.
+Repository for a Python model I have trained with a breast cancer dataset, in order to use it in a frontend.
 
 To run this project simply clone it 
 ```
